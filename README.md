@@ -4,4 +4,5 @@
  ### Responsable de la entrega: 
  | Padrón | Apellidos, Nombres      | Fecha    | Deadline  | 
  | :----- | :---------------------  | :------: | :-------: | 
- | 88627 | Nishihara, Leonardo               |          | Semana 06 | 
+ | 88627 | Nishihara, Leonardo               |          | Semana 06 |   
+ 
